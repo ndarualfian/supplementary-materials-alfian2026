@@ -1,0 +1,116 @@
+Room#,Name,RT_s,Avail,Az_avail,Recv_avail,Src_avail,Sweep,take_Azimuths,take_Receivers,take_Sources,Total_use,Selection rule
+1,Irregular-shaped listening room with a near-shoebox shape,0.24333333333333332,68376,37,231,8,YES,6,2,1,12,few azimuths (spread) x 2 distances
+2,HL Listening Lab,0.3033333333333333,1080,72,3,5,YES,6,2,1,12,few azimuths (spread) x 2 distances
+3,H1539b Test Lab,0.25666666666666665,1080,72,3,5,YES,6,2,1,12,few azimuths (spread) x 2 distances
+4,LR001 Living Room,0.52,360,72,1,5,YES,12,1,1,12,few azimuths (spread) x 2 distances
+5,ML2-102 Conference Room,0.5299999999999999,1080,72,3,5,YES,6,2,1,12,few azimuths (spread) x 2 distances
+6,"HU103 Lecture Hall, Audimax",1.1166666666666667,1080,72,3,5,YES,72,1,1,72,take ALL azimuths @1-2 distances
+7,H2505 Seminar Room,1.1933333333333334,1080,72,3,5,YES,72,1,1,72,take ALL azimuths @1-2 distances
+8,H1562 Foyer Helmholtz-Building,2.87,1080,72,3,5,YES,72,1,1,72,take ALL azimuths @1-2 distances
+9,Lecture Room,0.87,5,1,5,1,NO,1,5,1,5,A=fixed; take all distances (R)
+10,Meeting Room,0.3766666666666667,5,1,5,1,NO,1,5,1,5,A=fixed; take all distances (R)
+11,Variable Acoustics Laboratory 1,0.32,12,12,1,1,YES,12,1,1,12,few azimuths (spread) x 2 distances
+12,Variable Acoustics Laboratory 2,0.5266666666666667,12,12,1,1,YES,12,1,1,12,few azimuths (spread) x 2 distances
+13,Variable Acoustics Laboratory 3,1.32,12,12,1,1,YES,12,1,1,12,take ALL azimuths @1-2 distances
+14,Room Calypso,0.25,24,24,1,1,YES,12,1,1,12,few azimuths (spread) x 2 distances
+15,Control Room 1,0.23,24,24,1,1,YES,12,1,1,12,few azimuths (spread) x 2 distances
+16,Control Room 7,0.2833333333333334,24,24,1,1,YES,12,1,1,12,few azimuths (spread) x 2 distances
+17,Listening Room,0.26,24,24,1,1,YES,12,1,1,12,few azimuths (spread) x 2 distances
+18,Audio Lab,0.4166666666666667,48,24,2,1,YES,6,2,1,12,few azimuths (spread) x 2 distances
+19,Seminar Room,0.45999999999999996,24,24,1,1,YES,12,1,1,12,few azimuths (spread) x 2 distances
+20,Conference Room 1,0.43333333333333335,48,24,2,1,YES,6,2,1,12,few azimuths (spread) x 2 distances
+21,Conference Room 2,0.43333333333333335,24,24,1,1,YES,12,1,1,12,few azimuths (spread) x 2 distances
+22,Room Spirit 1,0.5666666666666668,9,9,1,1,YES,9,1,1,9,few azimuths (spread) x 2 distances
+23,Room Spirit 2,0.36999999999999994,9,9,1,1,YES,9,1,1,9,few azimuths (spread) x 2 distances
+24,Adream Laboratory 1,0.68,7,7,1,1,YES,7,1,1,7,few azimuths (spread) x 2 distances
+25,Adream Laboratory 2,0.4033333333333333,7,7,1,1,YES,7,1,1,7,few azimuths (spread) x 2 distances
+26,Room Auditorium 3-1,0.6833333333333335,18,18,1,1,YES,12,1,1,12,few azimuths (spread) x 2 distances
+27,Room Auditorium 3-2,0.44,18,18,1,1,YES,12,1,1,12,few azimuths (spread) x 2 distances
+28,Small Broadcast Studio 1,0.7000000000000001,18,18,1,1,YES,18,1,1,18,few azimuths (spread) x 2 distances
+29,Small Broadcast Studio 2,0.39333333333333337,18,18,1,1,YES,12,1,1,12,few azimuths (spread) x 2 distances
+30,Office,0.36999999999999994,9,9,1,1,YES,9,1,1,9,few azimuths (spread) x 2 distances
+31,Classroom,0.3833333333333333,9,9,1,1,YES,9,1,1,9,few azimuths (spread) x 2 distances
+32,Seminar Room 1,0.6166666666666667,9,9,1,1,YES,9,1,1,9,few azimuths (spread) x 2 distances
+33,Seminar Room 2,0.39333333333333337,9,9,1,1,YES,9,1,1,9,few azimuths (spread) x 2 distances
+34,Room HU201-1,0.6633333333333334,10,10,1,1,YES,10,1,1,10,few azimuths (spread) x 2 distances
+35,Room HU201-2,0.38000000000000006,10,10,1,1,YES,10,1,1,10,few azimuths (spread) x 2 distances
+36,Rehabilitation Room,0.36999999999999994,16,16,1,1,YES,12,1,1,12,few azimuths (spread) x 2 distances
+37,Coupled Rooms,0.36000000000000004,7,7,1,1,YES,7,1,1,7,few azimuths (spread) x 2 distances
+38,Small Room I,0.3833333333333333,12,12,1,1,YES,12,1,1,12,few azimuths (spread) x 2 distances
+39,TV Studio 1,0.59,14,14,1,1,YES,12,1,1,12,few azimuths (spread) x 2 distances
+40,TV Studio 2,0.41,14,14,1,1,YES,12,1,1,12,few azimuths (spread) x 2 distances
+41,Small Room A,0.35666666666666663,16,16,1,1,YES,12,1,1,12,few azimuths (spread) x 2 distances
+42,Small Room B,0.34,16,16,1,1,YES,12,1,1,12,few azimuths (spread) x 2 distances
+43,Small Room H,0.33,11,11,1,1,YES,11,1,1,11,few azimuths (spread) x 2 distances
+44,Small Room C,0.3866666666666667,14,14,1,1,YES,12,1,1,12,few azimuths (spread) x 2 distances
+45,Small Room D,0.37333333333333335,14,14,1,1,YES,12,1,1,12,few azimuths (spread) x 2 distances
+46,Small Room E,0.35000000000000003,14,14,1,1,YES,12,1,1,12,few azimuths (spread) x 2 distances
+47,Studio A,0.4166666666666667,14,14,1,1,YES,12,1,1,12,few azimuths (spread) x 2 distances
+48,Lecture Room,0.45333333333333337,14,14,1,1,YES,12,1,1,12,few azimuths (spread) x 2 distances
+49,Small Room F,0.42333333333333334,14,14,1,1,YES,12,1,1,12,few azimuths (spread) x 2 distances
+50,Small Room G,0.42,28,14,1,1,YES,12,1,1,12,few azimuths (spread) x 2 distances
+51,Laboratory,0.37333333333333335,28,14,1,2,YES,12,1,1,12,few azimuths (spread) x 2 distances
+52,Small Room J,0.44,28,14,1,1,YES,12,1,1,12,few azimuths (spread) x 2 distances
+53,ASH Listening Room 1-1,0.33666666666666667,140,28,1,5,YES,12,1,1,12,few azimuths (spread) x 2 distances
+54,ASH Listening Room 1-2,0.33666666666666667,96,24,1,4,YES,12,1,1,12,few azimuths (spread) x 2 distances
+55,ASH Listening Room 2-1,0.33666666666666667,140,28,1,5,YES,12,1,1,12,few azimuths (spread) x 2 distances
+56,ASH Listening Room 2-2,0.33666666666666667,96,24,1,4,YES,12,1,1,12,few azimuths (spread) x 2 distances
+57,ASH Listening Room 3-1,0.33666666666666667,140,28,1,5,YES,12,1,1,12,few azimuths (spread) x 2 distances
+58,ASH Listening Room 3-2,0.33666666666666667,48,24,1,2,YES,12,1,1,12,few azimuths (spread) x 2 distances
+59,ASH Listening Room 4-1,0.33666666666666667,24,24,1,1,YES,12,1,1,12,few azimuths (spread) x 2 distances
+60,ASH Listening Room 4-2,0.33666666666666667,24,12,1,2,YES,12,1,1,12,few azimuths (spread) x 2 distances
+61,Studio B,0.38999999999999996,14,14,1,1,YES,12,1,1,12,few azimuths (spread) x 2 distances
+62,Small Room K,0.3866666666666667,84,14,1,2,YES,12,1,1,12,few azimuths (spread) x 2 distances
+63,Studio C-1,0.4266666666666666,252,28,1,3,YES,12,1,1,12,few azimuths (spread) x 2 distances
+64,Studio C-2,0.4266666666666666,144,24,1,2,YES,12,1,1,12,few azimuths (spread) x 2 distances
+65,Studio C-3,0.4266666666666666,72,24,1,3,YES,12,1,1,12,few azimuths (spread) x 2 distances
+66,Audio Lab,0.88,10368,81,2,64,YES,12,2,1,24,few azimuths (spread) x 2 distances
+67,Concert Hall,2.1833333333333336,1400,100,14,1,YES,100,1,1,100,take ALL azimuths @1-2 distances
+68,Gulbenkian Grand Hall,1.6066666666666667,21,1,21,1,NO,1,21,1,21,A=fixed; take all distances (R)
+69,Cartuxa Monastery Church,2.23,10,1,10,1,NO,1,10,1,10,A=fixed; take all distances (R)
+70,Coliseu Micaelense,2.0999999999999996,18,1,18,1,NO,1,18,1,18,A=fixed; take all distances (R)
+71,Convent of Christ Church,4.15,6,1,6,1,NO,1,6,1,6,A=fixed; take all distances (R)
+72,Convent of Christ Refectory,5.843333333333334,5,1,5,1,NO,1,5,1,5,A=fixed; take all distances (R)
+73,Convent of Christ Cistern,5.3066666666666675,4,1,4,1,NO,1,4,1,4,A=fixed; take all distances (R)
+74,Convent of Christ Main Cloister Dom Joao III,3.2533333333333334,4,1,4,1,NO,1,4,1,4,A=fixed; take all distances (R)
+75,Lisbon Cathedral Church,4.800000000000001,8,1,8,1,NO,1,8,1,8,A=fixed; take all distances (R)
+76,Lisbon Cathedral Cloister,2.26,5,1,5,1,NO,1,5,1,5,A=fixed; take all distances (R)
+77,Lisbon Cathedral Sacristy,2.533333333333333,2,1,2,1,NO,1,2,1,2,A=fixed; take all distances (R)
+78,ESELx Great Hall,1.2433333333333334,6,1,6,1,NO,1,6,1,6,A=fixed; take all distances (R)
+79,ESML Great Hall 1,1.5366666666666668,9,1,9,1,NO,1,9,1,9,A=fixed; take all distances (R)
+80,ESML Great Hall 2,1.9533333333333334,9,1,9,1,NO,1,9,1,9,A=fixed; take all distances (R)
+81,ESML Small Hall 1,0.7633333333333333,5,1,5,1,NO,1,5,1,5,A=fixed; take all distances (R)
+82,ESML Small Hall 2,1.0166666666666666,5,1,5,1,NO,1,5,1,5,A=fixed; take all distances (R)
+83,ESML Organ Room,1.4733333333333334,10,1,10,1,NO,1,10,1,10,A=fixed; take all distances (R)
+84,Lourinha Misericordia Church,1.47,10,1,10,1,NO,1,10,1,10,A=fixed; take all distances (R)
+85,Lux Fragil Disco,0.62,18,1,18,1,NO,1,12,1,12,A=fixed; take all distances (R)
+86,Monastery of Alcobaça Church,8.916666666666666,12,1,6,1,NO,1,6,1,6,A=fixed; take all distances (R)
+87,Monastery of Alcobaça Sacristy,4.07,6,1,3,1,NO,1,3,1,3,A=fixed; take all distances (R)
+88,Monastery of Alcobaça Main Cloister D. Dinis,3.035,6,1,3,1,NO,1,3,1,3,A=fixed; take all distances (R)
+89,Monastery of Alcobaça Refectory,6.91,6,1,3,1,NO,1,3,1,3,A=fixed; take all distances (R)
+90,Monastery of Alcobaça Dormitory,7.34,6,1,3,1,NO,1,3,1,3,A=fixed; take all distances (R)
+91,Monastery of Batalha Church,8.246666666666666,12,1,6,1,NO,1,6,1,6,A=fixed; take all distances (R)
+92,Monastery of Batalha Founders Chapel,5.824999999999999,6,1,3,1,NO,1,3,1,3,A=fixed; take all distances (R)
+93,Monastery of Batalha Chapterhouse,8.433333333333332,6,1,3,1,NO,1,3,1,3,A=fixed; take all distances (R)
+94,Monastery of Batalha Unfinished Chapels,3.14,8,1,4,1,NO,1,4,1,4,A=fixed; take all distances (R)
+95,Monastery of Jerónimos Church,5.445,3,1,3,1,NO,1,3,1,3,A=fixed; take all distances (R)
+96,Monastery of Jerónimos Cloister,4.205,5,1,5,1,NO,1,5,1,5,A=fixed; take all distances (R)
+97,Monastery of Jerónimos Chapterhouse,9.726666666666667,3,1,3,1,NO,1,3,1,3,A=fixed; take all distances (R)
+98,Monastery of Jerónimos Refectory,7.38,3,1,3,1,NO,1,3,1,3,A=fixed; take all distances (R)
+99,National Palace of Mafra Basilica,5.525,10,1,10,1,NO,1,10,1,10,A=fixed; take all distances (R)
+100,National Palace of Mafra Library,2.1333333333333333,4,1,4,1,NO,1,4,1,4,A=fixed; take all distances (R)
+101,National Pantheon - Church of Santa Engracia,12.736666666666666,30,1,15,1,NO,1,15,1,15,A=fixed; take all distances (R)
+102,Parliament Sessions Hall,2.27,12,1,12,1,NO,1,12,1,12,A=fixed; take all distances (R)
+103,Parliament Senate Hall,2.2099999999999995,8,1,8,1,NO,1,8,1,8,A=fixed; take all distances (R)
+104,Garrett Hall - D Maria II National Theatre,1.0833333333333333,12,1,12,1,NO,1,12,1,12,A=fixed; take all distances (R)
+105,Sao Carlos National Theatre Main Opera Hall,1.18,16,1,16,1,NO,1,16,1,16,A=fixed; take all distances (R)
+106,Sao Carlos National Theatre Great Hall,1.43,6,1,6,1,NO,1,6,1,6,A=fixed; take all distances (R)
+107,St Dominic Convent Church,3.11,9,1,9,1,NO,1,9,1,9,A=fixed; take all distances (R)
+108,St George Cinema,1.2633333333333334,13,1,13,1,NO,1,13,1,13,A=fixed; take all distances (R)
+109,St Vincent de Fora Church,6.275,12,1,12,1,NO,1,12,1,12,A=fixed; take all distances (R)
+110,St Vincent de Fora Cloister,3.3266666666666667,4,1,4,1,NO,1,4,1,4,A=fixed; take all distances (R)
+111,Shrine of Fatima Basilica of Our Lady of the Rosary,8.55,9,1,9,1,NO,1,9,1,9,A=fixed; take all distances (R)
+112,Shrine of Fatima Basilica of the Most Holy Trinity,2.3633333333333337,7,1,7,1,NO,1,7,1,7,A=fixed; take all distances (R)
+113,Brahmssaal Music Chamber Hall,1.2333333333333332,5,1,5,1,NO,1,5,1,5,A=fixed; take all distances (R)
+114,Detmold Sommer Theater,1.02,6,1,6,1,NO,1,6,1,6,A=fixed; take all distances (R)
+115,Detmold Konzerthaus Concert Hall,1.36,280,1,35,8,NO,1,35,1,35,A=fixed; take all distances (R)
